@@ -11,7 +11,7 @@ An E-Commerce site made using the Laravel framework as part of a Team Project
     <tr>
         <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
             <a href=https://github.com/Tzar-T70>
-                <img src=https://github.com/account width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Tzar-T70/>
+                <img src=https://avatars.githubusercontent.com/u/183425033?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Tzar-T70/>
                 <br />
                 <sub style="font-size:14px"><b>Tzar-T70</b></sub>
             </a>
