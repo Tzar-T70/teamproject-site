@@ -1,6 +1,4 @@
 
-# Team Project Site
+# Educart - A Student-focused e-commerce site
 
-An E-Commerce site made using the ____ framework as part of a Team Project
-
-
+Built using the Laravel framework for a university team project
