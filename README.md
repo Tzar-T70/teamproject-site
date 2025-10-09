@@ -23,7 +23,6 @@ An E-Commerce site made using the Laravel framework as part of a Team Project
                 <sub style="font-size:14px"><b>sSubZzz</b></sub>
             </a>
         </td>
-
         <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
             <a href=https://github.com/slmaoo>
                 <img src=https://avatars.githubusercontent.com/u/137297735?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=slmaoo/>
@@ -66,6 +65,5 @@ An E-Commerce site made using the Laravel framework as part of a Team Project
                 <sub style="font-size:14px"><b>maqtr2004-glitch</b></sub>
             </a>
         </td>
-        
     </tr>
 </table>
